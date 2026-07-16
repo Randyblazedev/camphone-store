@@ -26,7 +26,7 @@ const DEMO_PHONES = [
     condition: 'new',
     description: 'The latest iPhone with A17 Pro chip, titanium design, and pro camera system. Perfect for those who want the best.',
     price: 850000,
-    image_url: 'https://images.unsplash.com/photo-1695048133142-1a20484d2569?w=400',
+    image_url: 'images/iphone15-promax.jpg',
     badge: 'promo',
     is_active: true
   },
@@ -40,7 +40,7 @@ const DEMO_PHONES = [
     condition: 'new',
     description: 'Samsung flagship with S Pen, AI features, and stunning 200MP camera.',
     price: 750000,
-    image_url: 'https://images.unsplash.com/photo-1610945265064-0e34e5519bbf?w=400',
+    image_url: 'images/samsung-galaxy.jpg',
     badge: 'available',
     is_active: true
   },
@@ -54,7 +54,7 @@ const DEMO_PHONES = [
     condition: 'used',
     description: 'Excellent condition iPhone 13. Battery health at 92%. Comes with original charger.',
     price: 320000,
-    image_url: 'https://images.unsplash.com/photo-1632661674596-6184d6e85f81?w=400',
+    image_url: 'images/iphone13.jpg',
     badge: 'available',
     is_active: true
   },
@@ -82,7 +82,7 @@ const DEMO_PHONES = [
     condition: 'new',
     description: 'Premium mid-range with 108MP camera and elegant design.',
     price: 185000,
-    image_url: 'https://images.unsplash.com/photo-1598327105666-5b89351aff97?w=400',
+    image_url: 'images/tecno-phone.jpg',
     badge: 'promo',
     is_active: true
   },
@@ -96,7 +96,7 @@ const DEMO_PHONES = [
     condition: 'new',
     description: 'Big screen, big battery, big storage. Perfect for entertainment.',
     price: 145000,
-    image_url: 'https://images.unsplash.com/photo-1601784551446-20c9e07cdbdb?w=400',
+    image_url: 'images/infinix-phone.jpg',
     badge: 'available',
     is_active: true
   },
@@ -110,7 +110,7 @@ const DEMO_PHONES = [
     condition: 'used',
     description: 'Well-maintained iPhone 12 Pro in Pacific Blue. Battery health at 88%.',
     price: 280000,
-    image_url: 'https://images.unsplash.com/photo-1603356033288-acfcb54801e6?w=400',
+    image_url: 'images/iphone12-pro.jpg',
     badge: 'available',
     is_active: true
   },

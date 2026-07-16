@@ -68,7 +68,7 @@ const DEMO_PHONES = [
     condition: 'new',
     description: 'Mid-range champion with great camera, AMOLED display, and all-day battery life.',
     price: 280000,
-    image_url: 'https://images.unsplash.com/photo-1610945265064-0e34e5519bbf?w=400',
+    image_url: 'images/samsung-galaxy.jpg',
     badge: 'available',
     is_active: true
   },
@@ -124,7 +124,7 @@ const DEMO_PHONES = [
     condition: 'new',
     description: 'Foldable future in your pocket. Massive screen for multitasking.',
     price: 950000,
-    image_url: 'https://images.unsplash.com/photo-1610945265064-0e34e5519bbf?w=400',
+    image_url: 'images/samsung-galaxy.jpg',
     badge: 'promo',
     is_active: true
   },
@@ -138,7 +138,7 @@ const DEMO_PHONES = [
     condition: 'new',
     description: 'Camera king in the budget segment. Take stunning photos day and night.',
     price: 165000,
-    image_url: 'https://images.unsplash.com/photo-1598327105666-5b89351aff97?w=400',
+    image_url: 'images/tecno-phone.jpg',
     badge: 'available',
     is_active: true
   }
